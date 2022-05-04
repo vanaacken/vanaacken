@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Advent of Code 2021
 - 🌱 I’m currently learning c++
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanaacken)](https://github.com/vanaacken/github-readme-stats)
